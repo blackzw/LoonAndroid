@@ -16,4 +16,5 @@
     <string name="no_network_connection_toast">无网络</string>
     <string name="down7">版本更新开始（有通知栏，下载完成以后需要点击通知栏安装才能跳转到安装界面）</string>
     <string name="down8">版本更新开始（无通知栏，下载完成以后自动跳转到安装界面）</string>
+    <string name="tips_main">公共顶部导航 始终在顶部</string>
 </resources>
